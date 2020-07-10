@@ -1,0 +1,1 @@
+This project help predict the whether the student will get a job in the campus drive or not.
